@@ -1,5 +1,5 @@
 /*
- * quicksort.c - 
+ * bubblesort.c - 
  *
  *
  * Author: lemocen (zhfayu1989.hotmail.com)
